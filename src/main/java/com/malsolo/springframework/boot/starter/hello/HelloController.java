@@ -1,4 +1,4 @@
-package com.malsolo.springframework.boot.starter;
+package com.malsolo.springframework.boot.starter.hello;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;

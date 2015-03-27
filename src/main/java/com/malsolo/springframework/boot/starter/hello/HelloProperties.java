@@ -1,4 +1,4 @@
-package com.malsolo.springframework.boot.starter;
+package com.malsolo.springframework.boot.starter.hello;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
